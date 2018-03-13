@@ -1,0 +1,15 @@
+{
+    "name": "nemethbuda/bmeiiban",
+    "description": "BME II ban collector",
+    "type": "library",
+    "require": {
+        "ixudra/curl": "^6.16"
+    },
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Buda Nemeth",
+            "email": "nemeth.buda@maszk.net"
+        }
+    ]
+}
