@@ -1,7 +1,8 @@
 <?php
 namespace Nemethbuda\BMEIIBan;
 
-use Ixudra\Curl;
+use Ixudra\Curl\Builder;
+use Ixudra\Curl\CurlService;
 
 class BMEIIBan
 {
