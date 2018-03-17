@@ -5,6 +5,11 @@
     "require": {
         "ixudra/curl": "^6.16"
     },
+    "autoload": {
+        "psr-4": {
+            "Nemethbuda\\BMEIIBan\\": "src/"
+        }
+    },
     "license": "WTFPL",
     "authors": [
         {
