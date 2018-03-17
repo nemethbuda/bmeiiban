@@ -1,7 +1,7 @@
 <?php
 namespace Nemethbuda\IIBan;
 
-use Ixudra/Curl;
+use Ixudra\Curl;
 
 class BMEIIBan
 {
