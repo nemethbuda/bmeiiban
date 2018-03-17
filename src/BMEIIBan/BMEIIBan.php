@@ -4,6 +4,8 @@ namespace Nemethbuda\BMEIIBan;
 use Ixudra\Curl\Builder;
 use Ixudra\Curl\CurlService;
 
+use Ixudra\Curl\Facades\Curl;
+
 class BMEIIBan
 {
     public function getbanlist(){
