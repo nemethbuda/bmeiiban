@@ -1,5 +1,5 @@
 <?php
-namespace Nemethbuda\IIBan;
+namespace Nemethbuda\BMEIIBan;
 
 use Ixudra\Curl;
 
